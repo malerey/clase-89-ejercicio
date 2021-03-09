@@ -1,6 +1,6 @@
 # Recorriendo arrays de objetos en React
 
-Utilizando el [codigo de la clase 65], el desafio es crear un proyecto de React que muestre gatitos en adopcion. 
+Utilizando el [codigo de la clase 65](https://github.com/malerey/clase-65-), el desafio es crear un proyecto de React que muestre gatitos en adopcion. 
 
 1) En App.css, copia el css de la clase 65. 
 2) En el retorno de App.js copia todo el html. Al comienzo de App.js copia el array "gatos". 
